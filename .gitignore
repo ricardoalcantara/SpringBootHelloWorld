@@ -1,3 +1,8 @@
+.settings
+.vscode
+
+*.log
+*.log.lck
 ## Java.gitignore
 *.class
 
